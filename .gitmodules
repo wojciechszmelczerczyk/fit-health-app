@@ -1,0 +1,6 @@
+[submodule "react-native-fit-health-ui"]
+	path = react-native-fit-health-ui
+	url = https://github.com/wojciechszmelczerczyk/react-native-fit-health-ui
+[submodule "node-fit-health-api"]
+	path = node-fit-health-api
+	url = https://github.com/wojciechszmelczerczyk/node-fit-health-api
