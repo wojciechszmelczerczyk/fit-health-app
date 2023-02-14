@@ -13,8 +13,8 @@ Application for workout plan preparing, composing diet etc.
 
 ## Modules
 
-- [React Native Client](./react-native-fit-health-ui/)
-- [Node Server](./node-fit-health-api/)
+- [React Native Client](https://github.com/wojciechszmelczerczyk/react-native-fit-health-ui)
+- [Node Server](https://github.com/wojciechszmelczerczyk/node-fit-health-api)
 
 ## Techstack
 
