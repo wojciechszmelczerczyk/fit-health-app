@@ -26,7 +26,7 @@ Application for workout plan preparing, composing diet etc.
 
 - [Nutrition API](https://www.edamam.com/)
 - [Exercise API](https://rapidapi.com/mortimerbrian135/api/exerciseapi3)
-- [OpenAI API](https://platform.openai.com/docs/guides/chat)
+- [ChatGPT API](https://platform.openai.com/docs/guides/chat)
 
 ## Architecture
 
