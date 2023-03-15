@@ -26,7 +26,7 @@ Application for workout plan preparing, composing diet etc.
 
 - [Nutrition API](https://www.edamam.com/)
 - [Exercise API](https://rapidapi.com/mortimerbrian135/api/exerciseapi3)
-- [OpenAI API](https://platform.openai.com/docs/guides/completion)
+- [OpenAI API](https://platform.openai.com/docs/guides/chat)
 
 ## Architecture
 
@@ -36,7 +36,7 @@ Client use `Firebase` which allows user to auth with credentials and 3 party pro
 
 Client communicate with `Nutrition` and `Exercise` API's in order to create diet plans, calculate nutrition, create training plans etc.
 
-Server communicate with `OpenAI` API in order to use ChatBot functionality.
+Server communicate with `ChatGPT` API in order to use ChatBot functionality.
 
 <details>
 
